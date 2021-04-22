@@ -1,5 +1,5 @@
 # Paraphrasing project
-## Determining frequent paraphrases for arbitrary expressions... to help machines improve their linguistic capabilities
+## Determining frequent paraphrases for arbitrary expressions
 
 A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Digital Transformation from the Government of Spain
 
