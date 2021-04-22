@@ -52,9 +52,28 @@ Corpora sized 10 million sentences each and containing high-quality monolingual 
    * Portuguese: https://parafrasis.prompsit.com/downloads/corpora/portuguese.xz
 2. Code (coming by the end of 2021)
 3. Papers
-   * EAMT 2020 paper using the tools to get to high-quality monolingual corpora applied to corpora cleaning and its impact in machine translation
+   * EAMT 2020 paper using the tools to get to high-quality monolingual corpora applied to corpora cleaning and its impact in machine translation: 
 
 
-# Acknowledgment 
+> Gema Ramírez-Sánchez, Jaume Zaragoza-Bernabeu, Marta Bañón and Sergio Ortiz Rojas \
+> "[Bifixer and Bicleaner: two open-source tools to clean your parallel data.](https://eamt2020.inesc-id.pt/proceedings-eamt2020.pdf#page=311)",\
+>in *Proceedings of the 22nd Annual Conference of the European Association for Machine Translation*.\
+>Lisboa, Portugal: European Association for Machine Translation, November 2020
+
+```latex
+@InProceedings{prompsit:2020:EAMT,
+  author    = {Gema Ram\'{i}rez-S\'{a}nchez and Jaume Zaragoza-Bernabeu and Marta Ba{\~n}\'{o}n and Sergio Ortiz-Rojas},
+  title     = {Bifixer and Bicleaner: two open-source tools to clean your parallel data.},
+  booktitle = {Proceedings of the 22nd Annual Conference of the European Association for Machine Translation},
+  pages	    = {291--298},
+  isbn      = {978-989-33-0589-8},
+  year	    = {2020},
+  month     = {November},
+  address   = {Lisboa, Portugal},
+  publisher = {European Association for Machine Translation}
+}
+```
+
+# Acknowledgments
 
  This is a TSI-100905-2019-4 project, co-financed by the Ministry of Economic Affairs and Digital Transformation from the Government of Spain. 
