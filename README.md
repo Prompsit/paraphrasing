@@ -1,11 +1,11 @@
 # Paraphrasing project
 ## Determining frequent paraphrases for arbitrary expressions
 
-A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Digital Transformation from the Government of Spain
+A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Digital Transformation from the Government of Spain.
 
 <img alt="THD Logo" src="ministerio-tdh-logo.svg" style="margin-bottom: 1rem;" height="75" />
 
-Industrial research project in the field of Natural Language Processing. November 2019 - December 2021 (26 months)
+Industrial research project in the field of Natural Language Processing. November 2019 - December 2021 (26 months).
 
 # The problem
 
