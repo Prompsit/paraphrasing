@@ -1,5 +1,9 @@
 # Paraphrasing project
-Determining frequent paraphrases for arbitrary expressions to help machines improve their linguistic capabilities
+Determining frequent paraphrases for arbitrary expressions... to help machines improve their linguistic capabilities
+
+A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Digital Transformation from the Government of Spain
+
+<img alt="THD Logo" src="app/static/img/logo.png" style="margin-bottom: 1rem;" height="75" />
 
 # The problem
 
@@ -50,4 +54,3 @@ Corpora sized 10 million sentences each and containing high-quality monolingual 
 # Acknowledgment 
 
  This is a TSI-100905-2019-4 project, co-financed by the Ministry of Economic Affairs and Digital Transformation from the Government of Spain. 
- <image-here>
