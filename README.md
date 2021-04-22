@@ -3,7 +3,7 @@ Determining frequent paraphrases for arbitrary expressions... to help machines i
 
 A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Digital Transformation from the Government of Spain
 
-<img alt="THD Logo" src="app/static/img/logo.png" style="margin-bottom: 1rem;" height="75" />
+<img alt="THD Logo" src="blob/main/ministerio-tdh-logo.svg" style="margin-bottom: 1rem;" height="75" />
 
 # The problem
 
