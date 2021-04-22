@@ -9,13 +9,15 @@ Industrial research project in the field of Natural Language Processing. Novembe
 
 # The problem
 
-Humans are able to understand easily that all of the sentences in the previous animation have the same meaning. However, for machines this is a complicated task and, in fact, one of the biggest limitations currently in human-machine communication. Paraphrasing is the linguistic mechanism we use to express the same message with different structures and words.
+Paraphrasing is the linguistic mechanism that humans use to express one same message with different structures and words.
 
-A lot of variability is introduced in our language through paraphrasing. The management of this is so complex that it takes a toll on our experience interacting with numerous applications in our day-to-day life. For example, it makes us rewrite over and over our queries in the text field of search engines, and also narrow down our language when we use voice assistants. It also affects many work fields, such as, automatic translation, interaction with chat bots, document classification, etc.
+Humans are able to understand easily that different sentences may convey the same message. However, for machines this is a complicated task and, in fact, one of the biggest limitations in human-machine communication. 
 
-A great deal of effort is invested in order to control this limitation and endeavour to make systems answer to any given input, working on the resilience of systems to language variability. This is achieved through dictionaries, rules, statistic technologies, or neuronal learning. These approaches have to deal with some issues, including context specific ones.
+A lot of variability is introduced in linguistic communication through paraphrasing. Managing this variability automatically is really complex and requires a big effort when intereacting with machines. Indeed, we spend a lot of time  rewriting over and over our queries in the text field of search engines, and we usually narrow down our language when we use voice assistants. This complexity also affects many work fields, such as, automatic translation, interaction with chat bots, document classification, etc.
 
-Instead of making a system that is resistant to language flexibility, our approach focuses on learning from this variability. We search for efficient mechanisms to generate said flexibility, ensuring we can recognise and then use it in specific applications.
+A great deal of effort is invested in order to control this limitation and endeavour to make systems answer to any given input, working on the resilience of systems to language variability. This is achieved through dictionaries, rules, statistic technologies, or neuronal learning. These approaches have to deal with some issues, including context-specific ones.
+
+Instead of making a system that is resistant to language flexibility, our approach focuses on learning from language variability. By working on paraphrasing, we search for efficient mechanisms to generate said flexibility, ensuring we can recognise and then use it in specific applications.
 
 # Our approach
 
