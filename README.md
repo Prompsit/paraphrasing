@@ -50,7 +50,7 @@ Corpora sized 10 million sentences each and containing high-quality monolingual 
    * Spanish: https://parafrasis.prompsit.com/downloads/corpora/spanish.xz
    * English: https://parafrasis.prompsit.com/downloads/corpora/english.xz
    * Portuguese: https://parafrasis.prompsit.com/downloads/corpora/portuguese.xz
-2. Code (coming by the end of 2021)
+2. Models: Paraphrase classification models for Spanish, Portuguese and English publised on HugginFace: https://huggingface.co/Prompsit
 3. Papers
    * EAMT 2020 paper using the tools to get to high-quality monolingual corpora applied to corpora cleaning and its impact in machine translation: 
 
