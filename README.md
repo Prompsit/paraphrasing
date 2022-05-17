@@ -7,6 +7,8 @@ A TSI-100905-2019-4 project, co-financed by Ministry of Economic Affairs and Dig
 
 Industrial research project in the field of Natural Language Processing. November 2019 - December 2021 (26 months).
 
+More info: https://parafrasis.prompsit.com/
+
 # The problem
 
 Paraphrasing is the linguistic mechanism that humans use to express one same message with different structures and words.
